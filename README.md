@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello! 👋
 
-<!--
-**Perazza1/Perazza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+💻 Interested in software development and problem solving  
+📚 Currently learning programming, algorithms and data structures  
 
-Here are some ideas to get you started:
+## 🚀 Technologies I'm learning
+- Python
+- Java
+- Git & GitHub
+- Algorithms and Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Goals
+Improve my programming skills, build practical projects and contribute to open-source projects.
+
+## 📫 Contact
+LinkedIn: linkedin.com/in/gabriel-perazza-fischer-543a53396
