@@ -9,6 +9,7 @@ Computer Science student passionate about software development.
 - Java
 - Git & GitHub
 - Algorithms and Data Structures
+- C++
 
 ## 📌 Goals
 Improve my programming skills, build practical projects and contribute to open-source projects.
