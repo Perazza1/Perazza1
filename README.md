@@ -1,5 +1,5 @@
-# Hello! 👋
-
+# Hi, I'm Gabriel Perazza 👋
+Computer Science student passionate about software development.
 🎓 Computer Science student  
 💻 Interested in software development and problem solving  
 📚 Currently learning programming, algorithms and data structures  
