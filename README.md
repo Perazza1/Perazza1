@@ -15,4 +15,5 @@ Computer Science student passionate about software development.
 Improve my programming skills, build practical projects and contribute to open-source projects.
 
 ## 📫 Contact
-LinkedIn: linkedin.com/in/gabriel-perazza-fischer-543a53396
+LinkedIn: 
+https://www.linkedin.com/in/gabriel-perazza-fischer-543a53396/
